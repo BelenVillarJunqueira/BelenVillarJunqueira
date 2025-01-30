@@ -1,6 +1,6 @@
 - 👋 Hola soy @BelenVillarJunqueira
 - 👀 Me interesa el mundo de la tecnología
-- 🌱 Actualmente estoy aprendiendo Desarrollo full stack
+- 🌱 Actualmente estoy estudiando Desarrollo full stack
 - 💞️ Busco colaborar en desarrollo web y programación
 - 📫 Puede escribirme a belu.dvt@hotmail.com
 - ⚡ Dato curioso: soy gamer y amante de la cocina 
