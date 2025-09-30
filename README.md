@@ -9,4 +9,17 @@
 
 
 Tecnologias 🚀
-CSS3 HTML5 JavaScript GithubPages  Vercel Render Bootstrap Express.js NodeJS React Vite MongoDB Figma Postman
+CSS3 
+HTML5 
+JavaScript 
+GithubPages  
+Vercel 
+Render 
+Bootstrap 
+Express.js 
+NodeJS 
+React 
+Vite 
+MongoDB 
+Figma 
+Postman
