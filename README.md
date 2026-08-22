@@ -23,7 +23,8 @@
 • Bootstrap 
 • Express.js 
 • NodeJS 
-• React 
+• React
+• Python
 • Vite 
 • MongoDB 
 • Figma 
